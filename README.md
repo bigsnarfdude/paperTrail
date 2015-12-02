@@ -16,6 +16,15 @@ Build jar file for storm:
 Submit jar to storm:
 `storm jar target/storm-basic-analytics-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.example.TopNTweetTopology`
 
+# run frontend
+
+Start flask:
+`$ paperTrail/frontend> python app.py`
+
+Open Browser:
+`http://localhost:5000`
+
+
 # Potential Algos or data structures
 
   * Average
