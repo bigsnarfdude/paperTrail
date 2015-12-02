@@ -9,7 +9,11 @@ Data visualized in D3.js via Flask
 https://gist.github.com/bigsnarfdude/93561cf1c4181758ede0
 
 # run project
-mvn package
+
+Build jar file for storm
+`mvn package`
+
+Submit jar to storm
 `storm jar target/storm-basic-analytics-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.example.TopNTweetTopology`
 
 # Potential Algos or data structures
