@@ -10,23 +10,23 @@ https://gist.github.com/bigsnarfdude/93561cf1c4181758ede0
 
 # Potential Algos or data structures
 
-  *Average
-  *Cardinality 
-  *Moments
-  *Mean
-  *Quantiles
-  *Geo Bounds?
-  *Max
-  *Min
-  *Top K
-  *Percentiles
-  *Percentile Ranks
-  *Sum
-  *Top hits
-  *Counts
-  *Increments
-  *T-Digest
-  *MinHash
+  * Average
+  * Cardinality 
+  * Moments
+  * Mean
+  * Quantiles
+  * Geo Bounds?
+  * Max
+  * Min
+  * Top K
+  * Percentiles
+  * Percentile Ranks
+  * Sum
+  * Top hits
+  * Counts
+  * Increments
+  * T-Digest
+  * MinHash
 
 # Questions to answer
 
