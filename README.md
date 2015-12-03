@@ -1,5 +1,7 @@
 # paperTrail
 
+### TweetSpout => ParseTweetBolt => CountBolt => IntermediateRankingsBolt => TotalRankingsBolt => ReportBolt
+
 Experiments with Apache Storm writing analytics to Redis
 
 Data visualized in D3.js via Flask
