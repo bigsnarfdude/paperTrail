@@ -1,6 +1,6 @@
 # paperTrail
 
-#### TweetSpout => ParseTweetBolt => CountBolt => IntermediateRankingsBolt => TotalRankingsBolt => ReportBolt
+###### TweetSpout => ParseTweetBolt => CountBolt => IntermediateRankingsBolt => TotalRankingsBolt => ReportBolt
 
 Experiments with Apache Storm writing analytics to Redis
 
